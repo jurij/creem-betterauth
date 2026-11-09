@@ -17,7 +17,7 @@
     "better-sqlite3": "^12.4.1",
     "creem": "^0.4.0",
     "kysely": "^0.28.8",
-    "next": "^15.0.0",
+    "next": "^15.5.29",
     "react": "^18",
     "react-dom": "^18",
     "zod": "^3.23.8"
@@ -29,7 +29,7 @@
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.17",
     "eslint": "^8",
-    "eslint-config-next": "15.0.0",
+    "eslint-config-next": "15.5.29",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
