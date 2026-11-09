@@ -68,7 +68,7 @@
     "better-sqlite3": "^12.4.1",
     "creem": "^0.4.0",
     "eslint": "^9",
-    "eslint-config-next": "16.0.1",
+    "eslint-config-next": "16.4.5",
     "typescript": "^5",
     "zod": "^3.23.8"
   },
